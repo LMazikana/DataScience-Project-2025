@@ -6,9 +6,9 @@ This is my portfolio Project
 
 I looked at X,Y& Z 
 
-## Interesting Graph 
-
+## Interesting Graph
 
 ## My Notebook
 
-* [Run my Colab Notebook].(https://github.com/LMazikana/DataScience-Project-2025#datascience-project-2025.ipynb)
+* [Run my Colab Notebook].(https://github.com/LMazikana/DataScience-Project-2025/blob/main/datas_science_notebook.ipynb)
+  
